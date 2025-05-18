@@ -192,3 +192,39 @@ textarea {
 strong{
   color: #8b1111;
 }
+
+.favorite_ice{
+  text-align: center;
+  font-size: 40px;
+  color: #8b1111;
+}
+.ice-text{
+  text-align: center;
+  font-size:20px;
+}
+
+.icecream_section{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.icecream-card{
+  width: 300px;
+  height: 400px;
+  border: 5px solid #8b1111;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  margin: 30px;
+}
+
+.icecream-card img{
+  max-width: 290px;
+  border-radius: 5px;
+  height: 70%;
+}
